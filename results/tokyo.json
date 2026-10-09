@@ -1,0 +1,395 @@
+{
+  "status": "success",
+  "recommendation": {
+    "total": "3775",
+    "currency": "USD",
+    "budget_remaining": "1225",
+    "score": 0.808506,
+    "comfort_score": 0.996341,
+    "price_score": 0.245,
+    "flight": {
+      "id": "WyJDalJJU1dnM2IxcFdNRjl3WTNOQlNIZExaV2RDUnkwdExTMHRMUzB0TFhkbVoyY3hOa0ZCUVVGQlIzSktWbFJuVEZZeVIyZEJFZ1JhUnpJMkdnc0lpS2tPRUFJYUExVlRSRGdkY0lpcERnPT0iLFtbIlNGTyIsIjIwMjctMDQtMTAiLCJOUlQiLG51bGwsIlpHIiwiMjUiXV0sW1siTlJUIiwiMjAyNy0wNC0xOCIsIlNGTyIsbnVsbCwiWkciLCIyNiJdXV0=",
+      "total": "2347",
+      "currency": "USD",
+      "stops": 0,
+      "duration_minutes": 1230,
+      "cabin": "ECONOMY",
+      "itineraries": [
+        {
+          "direction": "outbound",
+          "segments": [
+            {
+              "departure_airport": {
+                "name": "San Francisco International Airport",
+                "id": "SFO",
+                "date": "2027-04-10",
+                "time": "16:50"
+              },
+              "arrival_airport": {
+                "name": "Narita International Airport",
+                "id": "NRT",
+                "date": "2027-04-11",
+                "time": "20:00"
+              },
+              "duration": 670,
+              "airplane": "Boeing 787",
+              "airline": "ZIPAIR Tokyo",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/ZG.png",
+              "travel_class": "Economy",
+              "flight_number": "ZG 25",
+              "is_often_delayed": true,
+              "extensions": [
+                "Power and USB outlets",
+                "Stream video to own device",
+                "Wi-Fi free",
+                "Seat type Average Legroom",
+                "Legroom 31 inches",
+                "Carbon emission: 861 kg"
+              ],
+              "detected_extensions": {
+                "has_power_and_usb_outlets": true,
+                "has_stream_video_to_own_device": true,
+                "wifi": "free",
+                "seat_type": "Average Legroom",
+                "legroom_short": "31 in",
+                "legroom_long": "31 inches",
+                "carbon_emission": 861
+              }
+            }
+          ]
+        },
+        {
+          "direction": "return",
+          "segments": [
+            {
+              "departure_airport": {
+                "name": "Narita International Airport",
+                "id": "NRT",
+                "date": "2027-04-18",
+                "time": "21:30"
+              },
+              "arrival_airport": {
+                "name": "San Francisco International Airport",
+                "id": "SFO",
+                "date": "2027-04-18",
+                "time": "14:50"
+              },
+              "duration": 560,
+              "airplane": "Boeing 787",
+              "airline": "ZIPAIR Tokyo",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/ZG.png",
+              "travel_class": "Economy",
+              "flight_number": "ZG 26",
+              "is_overnight": true,
+              "extensions": [
+                "Power and USB outlets",
+                "Stream video to own device",
+                "Wi-Fi free",
+                "Seat type Average Legroom",
+                "Legroom 31 inches",
+                "Carbon emission: 684 kg"
+              ],
+              "detected_extensions": {
+                "has_power_and_usb_outlets": true,
+                "has_stream_video_to_own_device": true,
+                "wifi": "free",
+                "seat_type": "Average Legroom",
+                "legroom_short": "31 in",
+                "legroom_long": "31 inches",
+                "carbon_emission": 684
+              }
+            }
+          ]
+        }
+      ],
+      "arrival_date": "2027-04-11",
+      "return_departure_date": "2027-04-18"
+    },
+    "hotel": {
+      "id": "ChoI7tTyvLiSqvrEARoNL2cvMTFoOTMwMTI4ZxAB",
+      "name": "Mitsui Garden Hotel Toyosu Premier",
+      "total": "1428",
+      "currency": "USD",
+      "stars": 5,
+      "link": "https://www.gardenhotels.co.jp/toyosu-premier/?utm_source=googlebusinessprofile&utm_medium=google&utm_campaign=maps",
+      "room": "Room type must be confirmed with the supplier",
+      "check_in": "2027-04-11",
+      "check_out": "2027-04-18",
+      "rooms": 1,
+      "adults": 2
+    },
+    "reason": "0 stop(s) per direction at most; 1230 total flight itinerary minutes; hotel class 5; total 3775 USD for all travelers and rooms."
+  },
+  "alternatives": [
+    {
+      "total": "2882",
+      "currency": "USD",
+      "budget_remaining": "2118",
+      "score": 0.793156,
+      "comfort_score": 0.916341,
+      "price_score": 0.4236,
+      "flight": {
+        "id": "WyJDalJJU1dnM2IxcFdNRjl3WTNOQlNIZExaV2RDUnkwdExTMHRMUzB0TFhkbVoyY3hOa0ZCUVVGQlIzSktWbFJuVEZZeVIyZEJFZ1JhUnpJMkdnc0lpS2tPRUFJYUExVlRSRGdkY0lpcERnPT0iLFtbIlNGTyIsIjIwMjctMDQtMTAiLCJOUlQiLG51bGwsIlpHIiwiMjUiXV0sW1siTlJUIiwiMjAyNy0wNC0xOCIsIlNGTyIsbnVsbCwiWkciLCIyNiJdXV0=",
+        "total": "2347",
+        "currency": "USD",
+        "stops": 0,
+        "duration_minutes": 1230,
+        "cabin": "ECONOMY",
+        "itineraries": [
+          {
+            "direction": "outbound",
+            "segments": [
+              {
+                "departure_airport": {
+                  "name": "San Francisco International Airport",
+                  "id": "SFO",
+                  "date": "2027-04-10",
+                  "time": "16:50"
+                },
+                "arrival_airport": {
+                  "name": "Narita International Airport",
+                  "id": "NRT",
+                  "date": "2027-04-11",
+                  "time": "20:00"
+                },
+                "duration": 670,
+                "airplane": "Boeing 787",
+                "airline": "ZIPAIR Tokyo",
+                "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/ZG.png",
+                "travel_class": "Economy",
+                "flight_number": "ZG 25",
+                "is_often_delayed": true,
+                "extensions": [
+                  "Power and USB outlets",
+                  "Stream video to own device",
+                  "Wi-Fi free",
+                  "Seat type Average Legroom",
+                  "Legroom 31 inches",
+                  "Carbon emission: 861 kg"
+                ],
+                "detected_extensions": {
+                  "has_power_and_usb_outlets": true,
+                  "has_stream_video_to_own_device": true,
+                  "wifi": "free",
+                  "seat_type": "Average Legroom",
+                  "legroom_short": "31 in",
+                  "legroom_long": "31 inches",
+                  "carbon_emission": 861
+                }
+              }
+            ]
+          },
+          {
+            "direction": "return",
+            "segments": [
+              {
+                "departure_airport": {
+                  "name": "Narita International Airport",
+                  "id": "NRT",
+                  "date": "2027-04-18",
+                  "time": "21:30"
+                },
+                "arrival_airport": {
+                  "name": "San Francisco International Airport",
+                  "id": "SFO",
+                  "date": "2027-04-18",
+                  "time": "14:50"
+                },
+                "duration": 560,
+                "airplane": "Boeing 787",
+                "airline": "ZIPAIR Tokyo",
+                "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/ZG.png",
+                "travel_class": "Economy",
+                "flight_number": "ZG 26",
+                "is_overnight": true,
+                "extensions": [
+                  "Power and USB outlets",
+                  "Stream video to own device",
+                  "Wi-Fi free",
+                  "Seat type Average Legroom",
+                  "Legroom 31 inches",
+                  "Carbon emission: 684 kg"
+                ],
+                "detected_extensions": {
+                  "has_power_and_usb_outlets": true,
+                  "has_stream_video_to_own_device": true,
+                  "wifi": "free",
+                  "seat_type": "Average Legroom",
+                  "legroom_short": "31 in",
+                  "legroom_long": "31 inches",
+                  "carbon_emission": 684
+                }
+              }
+            ]
+          }
+        ],
+        "arrival_date": "2027-04-11",
+        "return_departure_date": "2027-04-18"
+      },
+      "hotel": {
+        "id": "ChcIiOq2kNqewdMpGgsvZy8xdjZ3cGJ5XxAB",
+        "name": "Hotel Cadenza Tokyo",
+        "total": "535",
+        "currency": "USD",
+        "stars": 4,
+        "link": "https://www.h-cadenza.jp/",
+        "room": "Room type must be confirmed with the supplier",
+        "check_in": "2027-04-11",
+        "check_out": "2027-04-18",
+        "rooms": 1,
+        "adults": 2
+      },
+      "reason": "0 stop(s) per direction at most; 1230 total flight itinerary minutes; hotel class 4; total 2882 USD for all travelers and rooms."
+    },
+    {
+      "total": "3246",
+      "currency": "USD",
+      "budget_remaining": "1754",
+      "score": 0.774956,
+      "comfort_score": 0.916341,
+      "price_score": 0.3508,
+      "flight": {
+        "id": "WyJDalJJU1dnM2IxcFdNRjl3WTNOQlNIZExaV2RDUnkwdExTMHRMUzB0TFhkbVoyY3hOa0ZCUVVGQlIzSktWbFJuVEZZeVIyZEJFZ1JhUnpJMkdnc0lpS2tPRUFJYUExVlRSRGdkY0lpcERnPT0iLFtbIlNGTyIsIjIwMjctMDQtMTAiLCJOUlQiLG51bGwsIlpHIiwiMjUiXV0sW1siTlJUIiwiMjAyNy0wNC0xOCIsIlNGTyIsbnVsbCwiWkciLCIyNiJdXV0=",
+        "total": "2347",
+        "currency": "USD",
+        "stops": 0,
+        "duration_minutes": 1230,
+        "cabin": "ECONOMY",
+        "itineraries": [
+          {
+            "direction": "outbound",
+            "segments": [
+              {
+                "departure_airport": {
+                  "name": "San Francisco International Airport",
+                  "id": "SFO",
+                  "date": "2027-04-10",
+                  "time": "16:50"
+                },
+                "arrival_airport": {
+                  "name": "Narita International Airport",
+                  "id": "NRT",
+                  "date": "2027-04-11",
+                  "time": "20:00"
+                },
+                "duration": 670,
+                "airplane": "Boeing 787",
+                "airline": "ZIPAIR Tokyo",
+                "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/ZG.png",
+                "travel_class": "Economy",
+                "flight_number": "ZG 25",
+                "is_often_delayed": true,
+                "extensions": [
+                  "Power and USB outlets",
+                  "Stream video to own device",
+                  "Wi-Fi free",
+                  "Seat type Average Legroom",
+                  "Legroom 31 inches",
+                  "Carbon emission: 861 kg"
+                ],
+                "detected_extensions": {
+                  "has_power_and_usb_outlets": true,
+                  "has_stream_video_to_own_device": true,
+                  "wifi": "free",
+                  "seat_type": "Average Legroom",
+                  "legroom_short": "31 in",
+                  "legroom_long": "31 inches",
+                  "carbon_emission": 861
+                }
+              }
+            ]
+          },
+          {
+            "direction": "return",
+            "segments": [
+              {
+                "departure_airport": {
+                  "name": "Narita International Airport",
+                  "id": "NRT",
+                  "date": "2027-04-18",
+                  "time": "21:30"
+                },
+                "arrival_airport": {
+                  "name": "San Francisco International Airport",
+                  "id": "SFO",
+                  "date": "2027-04-18",
+                  "time": "14:50"
+                },
+                "duration": 560,
+                "airplane": "Boeing 787",
+                "airline": "ZIPAIR Tokyo",
+                "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/ZG.png",
+                "travel_class": "Economy",
+                "flight_number": "ZG 26",
+                "is_overnight": true,
+                "extensions": [
+                  "Power and USB outlets",
+                  "Stream video to own device",
+                  "Wi-Fi free",
+                  "Seat type Average Legroom",
+                  "Legroom 31 inches",
+                  "Carbon emission: 684 kg"
+                ],
+                "detected_extensions": {
+                  "has_power_and_usb_outlets": true,
+                  "has_stream_video_to_own_device": true,
+                  "wifi": "free",
+                  "seat_type": "Average Legroom",
+                  "legroom_short": "31 in",
+                  "legroom_long": "31 inches",
+                  "carbon_emission": 684
+                }
+              }
+            ]
+          }
+        ],
+        "arrival_date": "2027-04-11",
+        "return_departure_date": "2027-04-18"
+      },
+      "hotel": {
+        "id": "ChgIuJu06veC1PDLARoLL2cvMTIxdnhudmIQAQ",
+        "name": "Tobu Hotel Levant Tokyo",
+        "total": "899",
+        "currency": "USD",
+        "stars": 4,
+        "link": "https://www.tobuhotel.co.jp/levant/",
+        "room": "Room type must be confirmed with the supplier",
+        "check_in": "2027-04-11",
+        "check_out": "2027-04-18",
+        "rooms": 1,
+        "adults": 2
+      },
+      "reason": "0 stop(s) per direction at most; 1230 total flight itinerary minutes; hotel class 4; total 3246 USD for all travelers and rooms."
+    }
+  ],
+  "feasible_combinations": 88,
+  "parameters": {
+    "origin": "San Francisco",
+    "destination": "Tokyo",
+    "departure_date": "2027-04-10",
+    "return_date": "2027-04-18",
+    "hotel_check_in": "2027-04-11",
+    "hotel_check_out": "2027-04-18",
+    "adults": 2,
+    "rooms": 1,
+    "budget": "5000",
+    "currency": "USD",
+    "comfort_weight": 0.75,
+    "cabin": "ECONOMY",
+    "max_stops": 1,
+    "min_hotel_stars": 3,
+    "unsupported_reason": null
+  },
+  "source": "SearchAPI (Google Flights and Google Hotels)",
+  "searched_at": "2026-10-09T20:58:02.320114+00:00",
+  "search_counts": {
+    "flights": 10,
+    "hotels": 17
+  },
+  "warnings": [
+    "Search examines return options for up to 3 outbound flights and one page of hotels; prices must be rechecked before booking.",
+    "Quoted totals exclude meals, transfers and extras not included by the supplier.",
+    "Skipped a hotel without a valid full-stay price or hotel details."
+  ],
+  "ranking_policy": "Hard budget/cabin/stops/stars/date/currency constraints; score = (1-comfort_weight)*price_score + comfort_weight*comfort_score. Comfort uses stops (30%), relative itinerary duration (30%), and hotel stars (40%). Unknown stars score 0.4."
+}

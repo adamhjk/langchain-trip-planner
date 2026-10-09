@@ -1,0 +1,576 @@
+{
+  "status": "success",
+  "recommendation": {
+    "total": "3422",
+    "currency": "USD",
+    "budget_remaining": "1578",
+    "score": 0.736119,
+    "comfort_score": 0.916341,
+    "price_score": 0.3156,
+    "flight": {
+      "id": "WyJDalJJYVd0NFVpMWlhbUZVTVdOQlJXdElObmRDUnkwdExTMHRMWEJtWlhZeE15MXVNa0ZCUVVGQlIzSktWaTFGVGpoRFVsZEJFZ1JhUnpJMkdnc0lpS2tPRUFJYUExVlRSRGdkY0lpcERnPT0iLFtbIlNGTyIsIjIwMjctMDQtMTAiLCJOUlQiLG51bGwsIlpHIiwiMjUiXV0sW1siTlJUIiwiMjAyNy0wNC0xOCIsIlNGTyIsbnVsbCwiWkciLCIyNiJdXV0=",
+      "total": "2347",
+      "currency": "USD",
+      "stops": 0,
+      "duration_minutes": 1230,
+      "cabin": "ECONOMY",
+      "itineraries": [
+        {
+          "direction": "outbound",
+          "segments": [
+            {
+              "departure_airport": {
+                "name": "San Francisco International Airport",
+                "id": "SFO",
+                "date": "2027-04-10",
+                "time": "16:50"
+              },
+              "arrival_airport": {
+                "name": "Narita International Airport",
+                "id": "NRT",
+                "date": "2027-04-11",
+                "time": "20:00"
+              },
+              "duration": 670,
+              "airplane": "Boeing 787",
+              "airline": "ZIPAIR Tokyo",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/ZG.png",
+              "travel_class": "Economy",
+              "flight_number": "ZG 25",
+              "is_often_delayed": true,
+              "extensions": [
+                "Power and USB outlets",
+                "Stream video to own device",
+                "Wi-Fi free",
+                "Seat type Average Legroom",
+                "Legroom 31 inches",
+                "Carbon emission: 861 kg"
+              ],
+              "detected_extensions": {
+                "has_power_and_usb_outlets": true,
+                "has_stream_video_to_own_device": true,
+                "wifi": "free",
+                "seat_type": "Average Legroom",
+                "legroom_short": "31 in",
+                "legroom_long": "31 inches",
+                "carbon_emission": 861
+              }
+            }
+          ]
+        },
+        {
+          "direction": "return",
+          "segments": [
+            {
+              "departure_airport": {
+                "name": "Narita International Airport",
+                "id": "NRT",
+                "date": "2027-04-18",
+                "time": "21:30"
+              },
+              "arrival_airport": {
+                "name": "San Francisco International Airport",
+                "id": "SFO",
+                "date": "2027-04-18",
+                "time": "14:50"
+              },
+              "duration": 560,
+              "airplane": "Boeing 787",
+              "airline": "ZIPAIR Tokyo",
+              "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/ZG.png",
+              "travel_class": "Economy",
+              "flight_number": "ZG 26",
+              "is_overnight": true,
+              "extensions": [
+                "Power and USB outlets",
+                "Stream video to own device",
+                "Wi-Fi free",
+                "Seat type Average Legroom",
+                "Legroom 31 inches",
+                "Carbon emission: 684 kg"
+              ],
+              "detected_extensions": {
+                "has_power_and_usb_outlets": true,
+                "has_stream_video_to_own_device": true,
+                "wifi": "free",
+                "seat_type": "Average Legroom",
+                "legroom_short": "31 in",
+                "legroom_long": "31 inches",
+                "carbon_emission": 684
+              }
+            }
+          ]
+        }
+      ],
+      "arrival_date": "2027-04-11",
+      "return_departure_date": "2027-04-18"
+    },
+    "hotel": {
+      "id": "ChkIqJqB1MKKisgaGg0vZy8xMWp0NDM0Ymt4EAE",
+      "name": "メルキュール東京羽田エアポート",
+      "total": "1075",
+      "currency": "USD",
+      "stars": 4,
+      "link": "https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=B7G7&merchantid=seo-maps-Japan-B7G7&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps",
+      "room": "Room type must be confirmed with the supplier",
+      "check_in": "2027-04-11",
+      "check_out": "2027-04-18",
+      "rooms": 1,
+      "adults": 2
+    },
+    "reason": "0 stop(s) per direction at most; 1230 total flight itinerary minutes; hotel class 4; total 3422 USD for all travelers and rooms."
+  },
+  "alternatives": [
+    {
+      "total": "4312",
+      "currency": "USD",
+      "budget_remaining": "688",
+      "score": 0.68528,
+      "comfort_score": 0.92,
+      "price_score": 0.1376,
+      "flight": {
+        "id": "WyJDalJJUTFsMFNtSnBUR1JaZFd0QlIxVlBkbEZDUnkwdExTMHRMUzB0TFhaMGNYVXhORUZCUVVGQlIzSktWaTA0Um1wWU9WTkJFZ1JLVERVNEdnc0kzdUFURUFJYUExVlRSRGdkY043Z0V3PT0iLFtbIlNGTyIsIjIwMjctMDQtMTAiLCJOUlQiLG51bGwsIkpMIiwiNTciXV0sW1siTlJUIiwiMjAyNy0wNC0xOCIsIlNGTyIsbnVsbCwiSkwiLCI1OCJdXV0=",
+        "total": "3237",
+        "currency": "USD",
+        "stops": 0,
+        "duration_minutes": 1215,
+        "cabin": "ECONOMY",
+        "itineraries": [
+          {
+            "direction": "outbound",
+            "segments": [
+              {
+                "departure_airport": {
+                  "name": "San Francisco International Airport",
+                  "id": "SFO",
+                  "date": "2027-04-10",
+                  "time": "13:30"
+                },
+                "arrival_airport": {
+                  "name": "Narita International Airport",
+                  "id": "NRT",
+                  "date": "2027-04-11",
+                  "time": "16:30"
+                },
+                "duration": 660,
+                "airplane": "Boeing 787",
+                "airline": "JAL",
+                "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JL.png",
+                "travel_class": "Economy",
+                "flight_number": "JL 57",
+                "ticket_also_sold_by": [
+                  "American",
+                  "Alaska"
+                ],
+                "is_often_delayed": true,
+                "extensions": [
+                  "Power and USB outlets",
+                  "On-demand video",
+                  "Wi-Fi for fee",
+                  "Seat type Above Average Legroom",
+                  "Legroom 33 inches",
+                  "Carbon emission: 1014 kg"
+                ],
+                "detected_extensions": {
+                  "has_power_and_usb_outlets": true,
+                  "has_on_demand_video": true,
+                  "wifi": "for fee",
+                  "seat_type": "Above Average Legroom",
+                  "legroom_short": "33 in",
+                  "legroom_long": "33 inches",
+                  "carbon_emission": 1014
+                }
+              }
+            ]
+          },
+          {
+            "direction": "return",
+            "segments": [
+              {
+                "departure_airport": {
+                  "name": "Narita International Airport",
+                  "id": "NRT",
+                  "date": "2027-04-18",
+                  "time": "18:15"
+                },
+                "arrival_airport": {
+                  "name": "San Francisco International Airport",
+                  "id": "SFO",
+                  "date": "2027-04-18",
+                  "time": "11:30"
+                },
+                "duration": 555,
+                "airplane": "Boeing 787",
+                "airline": "JAL",
+                "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JL.png",
+                "travel_class": "Economy",
+                "flight_number": "JL 58",
+                "ticket_also_sold_by": [
+                  "American",
+                  "Alaska"
+                ],
+                "is_overnight": true,
+                "is_often_delayed": true,
+                "extensions": [
+                  "Power and USB outlets",
+                  "On-demand video",
+                  "Wi-Fi for fee",
+                  "Seat type Above Average Legroom",
+                  "Legroom 33 inches",
+                  "Carbon emission: 769 kg"
+                ],
+                "detected_extensions": {
+                  "has_power_and_usb_outlets": true,
+                  "has_on_demand_video": true,
+                  "wifi": "for fee",
+                  "seat_type": "Above Average Legroom",
+                  "legroom_short": "33 in",
+                  "legroom_long": "33 inches",
+                  "carbon_emission": 769
+                }
+              }
+            ]
+          }
+        ],
+        "arrival_date": "2027-04-11",
+        "return_departure_date": "2027-04-18"
+      },
+      "hotel": {
+        "id": "ChkIqJqB1MKKisgaGg0vZy8xMWp0NDM0Ymt4EAE",
+        "name": "メルキュール東京羽田エアポート",
+        "total": "1075",
+        "currency": "USD",
+        "stars": 4,
+        "link": "https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=B7G7&merchantid=seo-maps-Japan-B7G7&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps",
+        "room": "Room type must be confirmed with the supplier",
+        "check_in": "2027-04-11",
+        "check_out": "2027-04-18",
+        "rooms": 1,
+        "adults": 2
+      },
+      "reason": "0 stop(s) per direction at most; 1215 total flight itinerary minutes; hotel class 4; total 4312 USD for all travelers and rooms."
+    },
+    {
+      "total": "3377",
+      "currency": "USD",
+      "budget_remaining": "1623",
+      "score": 0.682819,
+      "comfort_score": 0.836341,
+      "price_score": 0.3246,
+      "flight": {
+        "id": "WyJDalJJYVd0NFVpMWlhbUZVTVdOQlJXdElObmRDUnkwdExTMHRMWEJtWlhZeE15MXVNa0ZCUVVGQlIzSktWaTFGVGpoRFVsZEJFZ1JhUnpJMkdnc0lpS2tPRUFJYUExVlRSRGdkY0lpcERnPT0iLFtbIlNGTyIsIjIwMjctMDQtMTAiLCJOUlQiLG51bGwsIlpHIiwiMjUiXV0sW1siTlJUIiwiMjAyNy0wNC0xOCIsIlNGTyIsbnVsbCwiWkciLCIyNiJdXV0=",
+        "total": "2347",
+        "currency": "USD",
+        "stops": 0,
+        "duration_minutes": 1230,
+        "cabin": "ECONOMY",
+        "itineraries": [
+          {
+            "direction": "outbound",
+            "segments": [
+              {
+                "departure_airport": {
+                  "name": "San Francisco International Airport",
+                  "id": "SFO",
+                  "date": "2027-04-10",
+                  "time": "16:50"
+                },
+                "arrival_airport": {
+                  "name": "Narita International Airport",
+                  "id": "NRT",
+                  "date": "2027-04-11",
+                  "time": "20:00"
+                },
+                "duration": 670,
+                "airplane": "Boeing 787",
+                "airline": "ZIPAIR Tokyo",
+                "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/ZG.png",
+                "travel_class": "Economy",
+                "flight_number": "ZG 25",
+                "is_often_delayed": true,
+                "extensions": [
+                  "Power and USB outlets",
+                  "Stream video to own device",
+                  "Wi-Fi free",
+                  "Seat type Average Legroom",
+                  "Legroom 31 inches",
+                  "Carbon emission: 861 kg"
+                ],
+                "detected_extensions": {
+                  "has_power_and_usb_outlets": true,
+                  "has_stream_video_to_own_device": true,
+                  "wifi": "free",
+                  "seat_type": "Average Legroom",
+                  "legroom_short": "31 in",
+                  "legroom_long": "31 inches",
+                  "carbon_emission": 861
+                }
+              }
+            ]
+          },
+          {
+            "direction": "return",
+            "segments": [
+              {
+                "departure_airport": {
+                  "name": "Narita International Airport",
+                  "id": "NRT",
+                  "date": "2027-04-18",
+                  "time": "21:30"
+                },
+                "arrival_airport": {
+                  "name": "San Francisco International Airport",
+                  "id": "SFO",
+                  "date": "2027-04-18",
+                  "time": "14:50"
+                },
+                "duration": 560,
+                "airplane": "Boeing 787",
+                "airline": "ZIPAIR Tokyo",
+                "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/ZG.png",
+                "travel_class": "Economy",
+                "flight_number": "ZG 26",
+                "is_overnight": true,
+                "extensions": [
+                  "Power and USB outlets",
+                  "Stream video to own device",
+                  "Wi-Fi free",
+                  "Seat type Average Legroom",
+                  "Legroom 31 inches",
+                  "Carbon emission: 684 kg"
+                ],
+                "detected_extensions": {
+                  "has_power_and_usb_outlets": true,
+                  "has_stream_video_to_own_device": true,
+                  "wifi": "free",
+                  "seat_type": "Average Legroom",
+                  "legroom_short": "31 in",
+                  "legroom_long": "31 inches",
+                  "carbon_emission": 684
+                }
+              }
+            ]
+          }
+        ],
+        "arrival_date": "2027-04-11",
+        "return_departure_date": "2027-04-18"
+      },
+      "hotel": {
+        "id": "ChkIqoigrOqW0pFIGg0vZy8xMWYwMGYzM3BjEAE",
+        "name": "WAGOKORO",
+        "total": "1030",
+        "currency": "USD",
+        "stars": 3,
+        "link": "https://wagokoro.snack.chillnn.com/",
+        "room": "Room type must be confirmed with the supplier",
+        "check_in": "2027-04-11",
+        "check_out": "2027-04-18",
+        "rooms": 1,
+        "adults": 2
+      },
+      "reason": "0 stop(s) per direction at most; 1230 total flight itinerary minutes; hotel class 3; total 3377 USD for all travelers and rooms."
+    }
+  ],
+  "feasible_combinations": 26,
+  "decision_reason": "Selected option balances comfort and budget well with nonstop flights totaling 1230 minutes and a 4-star hotel in Tokyo. Total cost is $3422, well within the $5000 budget, favoring comfort as requested.",
+  "parameters": {
+    "origin": "San Francisco",
+    "destination": "Tokyo",
+    "departure_date": "2027-04-10",
+    "return_date": "2027-04-18",
+    "hotel_check_in": "2027-04-11",
+    "hotel_check_out": "2027-04-18",
+    "adults": 2,
+    "rooms": 1,
+    "budget": "5000",
+    "currency": "USD",
+    "comfort_weight": 0.7,
+    "cabin": "ECONOMY",
+    "max_stops": 1,
+    "min_hotel_stars": 3,
+    "unsupported_reason": null
+  },
+  "source": "SearchAPI (Google Flights and Google Hotels)",
+  "searched_at": "2026-10-09T21:14:45.876126+00:00",
+  "search_counts": {
+    "flights": 10,
+    "hotels": 17
+  },
+  "warnings": [
+    "Search examines return options for up to 3 outbound flights and one page of hotels; prices must be rechecked before booking.",
+    "Quoted totals exclude meals, transfers and extras not included by the supplier.",
+    "Skipped a hotel without a valid full-stay price or hotel details."
+  ],
+  "model_calls": 6,
+  "token_usage": {
+    "input_tokens": 12759,
+    "output_tokens": 247,
+    "total_tokens": 13006,
+    "reported_model_calls": 6,
+    "complete": true
+  },
+  "model_usage": [
+    {
+      "turn": 1,
+      "usage": {
+        "input_tokens": 1144,
+        "output_tokens": 110,
+        "total_tokens": 1254,
+        "input_token_details": {
+          "audio": 0,
+          "cache_read": 0
+        },
+        "output_token_details": {
+          "audio": 0,
+          "reasoning": 0
+        }
+      }
+    },
+    {
+      "turn": 2,
+      "usage": {
+        "input_tokens": 1417,
+        "output_tokens": 10,
+        "total_tokens": 1427,
+        "input_token_details": {
+          "audio": 0,
+          "cache_read": 1024
+        },
+        "output_token_details": {
+          "audio": 0,
+          "reasoning": 0
+        }
+      }
+    },
+    {
+      "turn": 3,
+      "usage": {
+        "input_tokens": 1471,
+        "output_tokens": 24,
+        "total_tokens": 1495,
+        "input_token_details": {
+          "audio": 0,
+          "cache_read": 1280
+        },
+        "output_token_details": {
+          "audio": 0,
+          "reasoning": 0
+        }
+      }
+    },
+    {
+      "turn": 4,
+      "usage": {
+        "input_tokens": 2036,
+        "output_tokens": 23,
+        "total_tokens": 2059,
+        "input_token_details": {
+          "audio": 0,
+          "cache_read": 1280
+        },
+        "output_token_details": {
+          "audio": 0,
+          "reasoning": 0
+        }
+      }
+    },
+    {
+      "turn": 5,
+      "usage": {
+        "input_tokens": 2705,
+        "output_tokens": 10,
+        "total_tokens": 2715,
+        "input_token_details": {
+          "audio": 0,
+          "cache_read": 1920
+        },
+        "output_token_details": {
+          "audio": 0,
+          "reasoning": 0
+        }
+      }
+    },
+    {
+      "turn": 6,
+      "usage": {
+        "input_tokens": 3986,
+        "output_tokens": 70,
+        "total_tokens": 4056,
+        "input_token_details": {
+          "audio": 0,
+          "cache_read": 2560
+        },
+        "output_token_details": {
+          "audio": 0,
+          "reasoning": 0
+        }
+      }
+    }
+  ],
+  "agent_trace": [
+    {
+      "tool": "validate_trip",
+      "arguments": {
+        "parameters": {
+          "origin": "San Francisco",
+          "destination": "Tokyo",
+          "departure_date": "2027-04-10",
+          "return_date": "2027-04-18",
+          "hotel_check_in": "2027-04-11",
+          "hotel_check_out": "2027-04-18",
+          "adults": 2,
+          "rooms": 1,
+          "budget": 5000,
+          "currency": "USD",
+          "comfort_weight": 0.7,
+          "cabin": "ECONOMY",
+          "max_stops": 1,
+          "min_hotel_stars": 3
+        }
+      },
+      "status": "ready",
+      "count": null
+    },
+    {
+      "tool": "resolve_locations",
+      "arguments": {},
+      "status": "ready",
+      "count": null
+    },
+    {
+      "tool": "search_flights",
+      "arguments": {
+        "sort_by": "top_flights",
+        "max_stops": 1
+      },
+      "status": "searched",
+      "count": 10
+    },
+    {
+      "tool": "search_hotels",
+      "arguments": {
+        "sort_by": "highest_rating",
+        "min_stars": 3
+      },
+      "status": "searched",
+      "count": 17
+    },
+    {
+      "tool": "compare_options",
+      "arguments": {},
+      "status": "success",
+      "count": null
+    },
+    {
+      "tool": "finish_itinerary",
+      "arguments": {
+        "candidate_id": "b972da26bb76",
+        "rationale": "Selected option balances comfort and budget well with nonstop flights totaling 1230 minutes and a 4-star hotel in Tokyo. Total cost is $3422, well within the $5000 budget, favoring comfort as requested."
+      },
+      "status": "finished",
+      "count": null
+    }
+  ],
+  "ranking_policy": "Python enforces hard constraints and computes advisory price/comfort scores; the LLM selects a verified package.",
+  "report": "# Trip itinerary report\n\n## San Francisco → Tokyo\n\n**Travel dates:** Apr 10, 2027–Apr 18, 2027  \n**Travelers:** 2 adult(s) · 1 room · 7 hotel nights  \n**Proposed trip total:** 3,422.00 USD  \n**Budget remaining:** 1,578.00 USD\n\n## Flight itinerary\n\nAll times are local to the airport shown.\n\n### Outbound\n\n| Flight | Route | Departure | Arrival |\n| --- | --- | --- | --- |\n| ZIPAIR Tokyo ZG 25 | SFO → NRT | Apr 10, 2027, 16:50 | Apr 11, 2027, 20:00 |\n\n### Return\n\n| Flight | Route | Departure | Arrival |\n| --- | --- | --- | --- |\n| ZIPAIR Tokyo ZG 26 | NRT → SFO | Apr 18, 2027, 21:30 | Apr 18, 2027, 14:50 |\n\n**Cabin:** Economy · **Maximum stops per direction:** 0 · **Total flight itinerary time:** 20h 30m\n\n## Hotel stay\n\n**メルキュール東京羽田エアポート**\n\n- Check-in: Apr 11, 2027\n- Check-out: Apr 18, 2027\n- Stay: 7 nights, 1 room, 2 adult(s)\n- Hotel class: 4 stars\n- Room: Room type must be confirmed with the supplier\n\n[Hotel website](https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=B7G7&merchantid=seo-maps-Japan-B7G7&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps)\n\n## Stay overview\n\n- **Apr 10, 2027:** Depart San Francisco.\n- **Apr 11, 2027:** Arrive at your destination.\n- **Apr 11, 2027:** Check in to メルキュール東京羽田エアポート.\n- **Apr 12, 2027–Apr 17, 2027:** Free time in Tokyo.\n- **Apr 18, 2027:** Check out of the hotel.\n- **Apr 18, 2027:** Take the return flight.\n\n## Cost breakdown\n\n| Item | Total |\n| --- | ---: |\n| Round-trip flights for 2 adults | 2,347.00 USD |\n| Hotel for 7 nights | 1,075.00 USD |\n| **Trip total** | **3,422.00 USD** |\n| Budget | 5,000.00 USD |\n| Remaining | 1,578.00 USD |\n\n## Why this option\n\nSelected option balances comfort and budget well with nonstop flights totaling 1230 minutes and a 4-star hotel in Tokyo. Total cost is $3422, well within the $5000 budget, favoring comfort as requested.\n\n## Alternatives\n\n| Hotel | Flight stops (maximum) | Trip total | Difference |\n| --- | ---: | ---: | ---: |\n| メルキュール東京羽田エアポート | 0 | 4,312.00 USD | 890.00 USD more |\n| WAGOKORO | 0 | 3,377.00 USD | 45.00 USD less |\n\n## Search notes\n\nSource: SearchAPI (Google Flights and Google Hotels). Searched at 2026-10-09T21:14:45.876126+00:00.\n\nCompared 10 round-trip flight options and 17 hotel offers.\n\n- Search examines return options for up to 3 outbound flights and one page of hotels; prices must be rechecked before booking.\n- Quoted totals exclude meals, transfers and extras not included by the supplier.\n- Skipped a hotel without a valid full-stay price or hotel details.\n- This is a proposed itinerary; flights and hotel have not been booked.\n\n## Agent actions\n\n1. validate_trip — ready\n2. resolve_locations — ready\n3. search_flights — searched\n4. search_hotels — searched\n5. compare_options — success\n6. finish_itinerary — finished\n\n## LLM token usage\n\n**Total:** 13,006 tokens (12,759 input + 247 output) across 6 model turns.\n"
+}

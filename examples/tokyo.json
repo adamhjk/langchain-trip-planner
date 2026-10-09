@@ -1,0 +1,16 @@
+{
+  "origin": "SFO",
+  "destination": "Tokyo",
+  "departure_date": "2027-04-10",
+  "return_date": "2027-04-18",
+  "hotel_check_in": "2027-04-11",
+  "hotel_check_out": "2027-04-18",
+  "adults": 2,
+  "rooms": 1,
+  "budget": "5000",
+  "currency": "USD",
+  "comfort_weight": 0.6,
+  "cabin": "ECONOMY",
+  "max_stops": 1,
+  "min_hotel_stars": 3
+}
